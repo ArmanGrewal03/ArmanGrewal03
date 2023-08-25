@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)
+![MasterHead](https://media.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1697673600&v=beta&t=gZqzeNwX5mTXd2yCdS6kyGdQL34acQaIlADDQV_TiKE)
 <h1 align="center">I'm Arman Grewal</h1>
 <h3 align="center">A passionate software engineer from Toronto Canada</h3>
 
