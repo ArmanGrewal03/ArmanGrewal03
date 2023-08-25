@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-world-gifs&psig=AOvVaw3nSITdU_VVh_mD6iHfxC-z&ust=1693022963486000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD045T49oADFQAAAAAdAAAAABAn)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liveprompter.com%2F2017%2F09%2F17%2Fhelloworld%2F&psig=AOvVaw2V0GDS8lDxB1OUA7MUAiYW&ust=1693023022053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCK9rD49oADFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Arman Grewal</h1>
 <h3 align="center">A passionate software engineer from Toronto Canada</h3>
 
