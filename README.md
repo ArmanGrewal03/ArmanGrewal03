@@ -2,9 +2,12 @@
 <h1 align="center">I'm Arman Grewal</h1>
 <h3 align="center">A passionate software engineer from Toronto Canada</h3>
 
-- 🌱 I’m currently learning **Software Engineering related courses at university**
-- 📝 I am regularly learning about **Modern day technology, technological advances, cyber security, coding practices, data structures and algorithms. 
-- 📫 How to reach me **armangrewal01@gmail.com**
+- Currently Studying **Software Engineering University Level**
+- Strive using **Logical thinking and problem solving**
+- Regularly learning about **Modern day technology, cyber security, coding practices, data structures and algorithms.**
+- Currenty working on **SQL database for an ecommerce shoe store**
+- My Repo **A small collection of my working projects, more to come!**
+- How to reach me **armangrewal01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
