@@ -7,7 +7,6 @@
 - Regularly learning about **Modern day technology, cyber security, coding practices, data structures and algorithms.**
 - Currenty working on **SQL database for an ecommerce shoe store**
 - My Repo **A small collection of my working projects, more to come!**
-- How to reach me **armangrewal01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
