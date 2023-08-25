@@ -1,4 +1,4 @@
-[![MasterHead](https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg)]
+![MasterHead](https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg)
 <h1 align="center">Hi 👋, I'm Arman Grewal</h1>
 <h3 align="center">A passionate software engineer from Toronto Canada</h3>
 
